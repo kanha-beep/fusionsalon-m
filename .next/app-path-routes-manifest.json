@@ -1,0 +1,16 @@
+{
+  "/api/contact/route": "/api/contact",
+  "/api/health/route": "/api/health",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/offers/page": "/offers",
+  "/contact/page": "/contact",
+  "/book-appointment/page": "/book-appointment",
+  "/page": "/",
+  "/gallery/page": "/gallery",
+  "/pricing/page": "/pricing",
+  "/team/page": "/team",
+  "/services/page": "/services",
+  "/testimonials/page": "/testimonials",
+  "/services/[slug]/page": "/services/[slug]"
+}
